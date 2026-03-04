@@ -206,7 +206,7 @@ jupyter>=1.0.0
 
 ## 👤 Author
 
-**[Ton Prénom Nom]**  
+**Nicolas SAIZE**  
 - 💼 [LinkedIn](https://linkedin.com/in/nicolas-saize)  
 - 📧 prosaize@gmail.com
 
