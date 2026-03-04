@@ -2,6 +2,8 @@
 
 > Exploratory Data Analysis on a 3,000-row banking customer dataset using Python (Pandas, Seaborn, Matplotlib).
 
+[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/YowlaP/Banking-Customer-EDA-Exploratory-Data-Analysis/blob/main/notebooks/BankEDA.ipynb)
+*(Click the badge above to view the fully rendered notebook with all interactive charts and outputs)*
 ---
 
 ## 📌 Problem Statement
